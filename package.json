@@ -1,0 +1,14 @@
+{
+  "name": "com.pavel.superblur",
+  "version": "0.1.0",
+  "displayName": "Super Blur",
+  "description": "Screen and UI gaussian blur for Unity",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Stinkysteak",
+    "email": "stinkysteak@steaksoft.com",
+    "url": "https://steaksoft.net"
+  }
+}
