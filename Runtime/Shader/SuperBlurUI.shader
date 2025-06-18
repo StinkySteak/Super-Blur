@@ -2,6 +2,8 @@
 {
 	Properties
 	{
+		[HideInInspector] _MainTex ("Sprite Texture", 2D) = "white" {}
+
 		_SuperBlurTexture ("Background Texture", 2D) = "white" {}
 
 		_Color ("Tint", Color) = (1,1,1,0)
